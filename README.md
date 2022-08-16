@@ -1,1 +1,1 @@
-是小号！
+![](https://tryhackme-badges.s3.amazonaws.com/n0tr00t.png)
