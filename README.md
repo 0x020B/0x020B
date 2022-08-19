@@ -6,10 +6,6 @@
 
 - 📫 How to reach me **github@n0tr00t.eu.org**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/n0tr00t.eu.org/index.xml" target="blank"><img align="center" src="https://fastly.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/rss.svg" alt="n0tr00t.eu.org/index.xml" height="30" width="40" /></a>
