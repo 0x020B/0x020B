@@ -1,4 +1,3 @@
-<ScrIpt>alert('Hi!')</ScriPt>
 <h1 align="center">Hi 👋, I'm n0tr00t</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=n0tr00teuorg&theme=darkhub&no-bg=true&no-frame=true" alt="n0tr00teuorg" /></a> </p>
